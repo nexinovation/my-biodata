@@ -42,3 +42,16 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+button {
+    background-color: #800080;
+    color: #333333;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #c0c0c0;
+}
